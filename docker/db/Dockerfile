@@ -1,0 +1,7 @@
+FROM postgres:11.5-alpine
+
+ENV POSTGRES_USER example
+ENV POSTGRES_PASSWORD password
+ENV POSTGRES_DB example
+
+EXPOSE 5432
