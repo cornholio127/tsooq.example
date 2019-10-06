@@ -1,4 +1,4 @@
-# tsooq.example
+# tsooq example application
 Simple REST API using tsooq
 
 ## Installation
